@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Krishna</h1>
-<h3 align="center">Trying to solve problems using Code, Caffeine and Creativity</h3>
+<h3 align="center">Yet another human being born towards the end of the 20th century, and continues his Exploration & Experimentation on the Technology that the 21st century has to offer.</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=decoded-cipher&show_icons=true&locale=en&theme=dracula" alt="decoded-cipher" /><p/>
 
