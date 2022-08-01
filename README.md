@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://aks.one/Hi.gif" width="30px">Hi, I'm Arjun Krishna</a></h1>
+<h1 align="center"><img src="https://aks.one/Hi.gif" width="30px" /> Hi, I'm Arjun Krishna</a></h1>
+
 <h3 align="center">Trying to solve problems using Code, Caffeine and Creativity</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=decoded-cipher&show_icons=true&locale=en&theme=dracula&count_private=true" alt="decoded-cipher" /><p/>
