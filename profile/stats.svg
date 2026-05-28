@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Arjun Krishna's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 126, Total Commits  (last year) : 1124, Total PRs: 448, Total Issues: 99, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 126, Total Commits  (last year) : 1127, Total PRs: 448, Total Issues: 99, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.15436759254711;
+        stroke-dashoffset: 40.13899102048609;
       }
     }
   
