@@ -42,6 +42,14 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
+      - name: Generate streak card
+        run: |
+          curl -sS --fail --retry 5 --retry-all-errors --retry-delay 5 --max-time 90 \
+            -o streak.svg \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=dracula"
+          grep -q "<svg" streak.svg
+          mv streak.svg profile/streak.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
