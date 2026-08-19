@@ -4,6 +4,6 @@
 
 <p align="center"><img src="./profile/stats.svg" alt="decoded-cipher" /><p/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=decoded-cipher&theme=dracula" alt="decoded-cipher" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=decoded-cipher&theme=dracula" alt="decoded-cipher" /></p>
 
 <p align="center"><img src="./profile/trophy.svg" alt="decoded-cipher" /></p>
